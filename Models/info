@@ -1,2 +1,0 @@
-The model folder contains classes that define the core data structures used in the scheduler, such as processes and their attributes (arrival time, burst time, etc.).
-It manages all data-related logic, acting as the backbone for calculations and state management between the user interface and the scheduling algorithms.
